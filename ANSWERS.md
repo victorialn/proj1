@@ -13,3 +13,4 @@ This works because in `views/layouts/application.html.erb` it is rendering layou
 # Give us feedback on the project and decal below!
 I was not able to implement health or damaging because no matter what I did my terminal did not allow me to reset my database. I tried every suggestion on piazza and it still didn't work. I finished everything else so I hope I don't get docked for computer barriers (since I have windows). I really enjoyed this decal, but I feel like in the future at least one staff person should have a windows computer or have access to one so they can help troubleshoot because I have faced quite a few setbacks and spent hours trying to work through and fix windows errors that I encounter (expecially in homework 2 and this project).  
 # Extra credit: Link your Heroku deployed app
+https://github.com/victorialn/proj1
